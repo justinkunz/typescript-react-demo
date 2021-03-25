@@ -12,6 +12,7 @@ interface FormInput {
   value: string;
   error: boolean;
 }
+
 interface FormInputState {
   title: FormInput;
   description: FormInput;
